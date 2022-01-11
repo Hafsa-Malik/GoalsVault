@@ -34,10 +34,9 @@ User will get coins based on the level of difficulty of the task. Challenges of 
 
 ![n](https://user-images.githubusercontent.com/76608263/148930677-80d0c864-9773-4a36-b18e-e441d82ce3a6.png)
 
-![image](https://user-images.githubusercontent.com/76608263/148929604-2d92e083-d341-46eb-ab66-c7fddff66a26.png)
-
 ![image](https://user-images.githubusercontent.com/76608263/148930517-ace9ad72-af08-41f1-a977-4a53191e4aa7.png)
 
+![image](https://user-images.githubusercontent.com/76608263/148931674-e169332a-82cc-4eec-a479-727ff7705441.png)
 
 
 
