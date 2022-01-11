@@ -27,10 +27,11 @@ iii.	Third option presents the window to add and check to-do tasks.
 User will get coins based on the level of difficulty of the task. Challenges of a certain category will be unlocked after a day of completion of the previous challenge. Record of completed challenges and tasks will be stored in a database.
 
 
-# **How To Run Project: **
+# **How To Run Project:**
 
-1) Visit https://developer.android.com/studio?gclid=CjwKCAjww-CGBhALEiwAQzWxOm1PBsxX50mQqdQTqsxKUS40DW0FghZEr29K5kkHShBVMkwM3xs0XhoC3akQAvD_BwE&gclsrc=aw.ds
-to install the Studio
+1)Visit 
+https://developer.android.com/studio?gclid=CjwKCAjww-CGBhALEiwAQzWxOm1PBsxX50mQqdQTqsxKUS40DW0FghZEr29K5kkHShBVMkwM3xs0XhoC3akQAvD_BwE&gclsrc=aw.ds
+to install the AndroidStudio
 
 2)Wait for the installation of the Studio
 
