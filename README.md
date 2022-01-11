@@ -27,6 +27,24 @@ iii.	Third option presents the window to add and check to-do tasks.
 User will get coins based on the level of difficulty of the task. Challenges of a certain category will be unlocked after a day of completion of the previous challenge. Record of completed challenges and tasks will be stored in a database.
 
 
+# **How To Run Project: **
+
+1) Visit https://developer.android.com/studio?gclid=CjwKCAjww-CGBhALEiwAQzWxOm1PBsxX50mQqdQTqsxKUS40DW0FghZEr29K5kkHShBVMkwM3xs0XhoC3akQAvD_BwE&gclsrc=aw.ds
+to install the Studio
+
+2)Wait for the installation of the Studio
+
+3)After successful installation, paste the given GoalsVault Folder in the Android Studios Projects.
+
+4)Open the Project. 
+
+5)You can either connect device physically, through a USB cable and enable USB debugging (in Developer Options) on your phone to Install the project or Run emulator to test the project 
+
+6)To access Java Files go to C:\xyz\xyz\AndroidStudioProjects\GoalsVault\app\src\main\java\com\example directory to access Java Files
+
+7)To access XML Files go to C:\xyz\xyz\AndroidStudioProjects\GoalsVault\app\src\main\res directory to access 
+
+
 # **Screenshots**
 ![m](https://user-images.githubusercontent.com/76608263/148930720-3f4cce75-0303-40ab-9743-1869493e77a6.png)
 
