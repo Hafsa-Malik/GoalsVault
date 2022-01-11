@@ -28,13 +28,16 @@ User will get coins based on the level of difficulty of the task. Challenges of 
 
 
 # **Screenshots**
-![image](https://user-images.githubusercontent.com/76608263/148928662-165e35ab-047c-46bb-b88f-23abb7f6aeb3.png)
+![m](https://user-images.githubusercontent.com/76608263/148930720-3f4cce75-0303-40ab-9743-1869493e77a6.png)
 
 ![image](https://user-images.githubusercontent.com/76608263/148929225-8408d292-799b-41d5-adca-ec17729ab737.png)
 
-![image](https://user-images.githubusercontent.com/76608263/148929346-ea504d00-7fa0-474a-92aa-fccf24ff627d.png)
+![n](https://user-images.githubusercontent.com/76608263/148930677-80d0c864-9773-4a36-b18e-e441d82ce3a6.png)
 
 ![image](https://user-images.githubusercontent.com/76608263/148929604-2d92e083-d341-46eb-ab66-c7fddff66a26.png)
+
+![image](https://user-images.githubusercontent.com/76608263/148930517-ace9ad72-af08-41f1-a977-4a53191e4aa7.png)
+
 
 
 
